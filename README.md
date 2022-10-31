@@ -1,7 +1,7 @@
 # Veg-Day
 
 ## Целью данной работы является облегчение жизни веганов. 
-
+## The purpose of this work is to make life easier for vegans.
 ___
 
  <img width="300" alt="7" src="https://user-images.githubusercontent.com/99130444/199078202-fbdd29ce-eebb-485e-96c8-0142e63b036e.png">
